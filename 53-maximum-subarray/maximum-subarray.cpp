@@ -1,3 +1,12 @@
+//q no. 53
+//name = maximum subarray 
+// complexity = O(n)
+// approach = Kadane algo
+
+
+
+
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
