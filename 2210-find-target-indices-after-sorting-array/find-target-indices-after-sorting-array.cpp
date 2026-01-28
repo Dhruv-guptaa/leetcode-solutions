@@ -1,3 +1,8 @@
+// name :- find target indices after sorting array
+// approach :-- sort = linear scan
+// complexity :-- O(n^2)
+
+
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
