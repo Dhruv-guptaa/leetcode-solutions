@@ -1,3 +1,9 @@
+
+// time complexity =O(n)
+//space compleity = O(1)
+
+
+
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
