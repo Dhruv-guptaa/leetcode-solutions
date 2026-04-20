@@ -1,11 +1,7 @@
-//q no. 53
+//question no. 53
 //name = maximum subarray 
 // complexity = O(n)
-// approach = Kadane algo
-
-
-
-
+// approach = Kadane algorithm
 
 class Solution {
 public:
